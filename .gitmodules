@@ -3,7 +3,10 @@
 	url = https://github.com/chenfengrugao/riscvv.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/icxhub/riscvb.git
+	url = https://github.com/xoit/riscv-backend.git
 [submodule "src/e200_opensource"]
 	path = src/e200_opensource
 	url = https://github.com/SI-RISCV/e200_opensource.git
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/xoit/riscv-synthesis.git
