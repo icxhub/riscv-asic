@@ -1,0 +1,6 @@
+[submodule "verification"]
+	path = verification
+	url = https://github.com/chenfengrugao/riscvv.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/icxhub/riscvb.git
