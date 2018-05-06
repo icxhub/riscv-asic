@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/icxhub/riscvb.git
+[submodule "src/e200_opensource"]
+	path = src/e200_opensource
+	url = https://github.com/SI-RISCV/e200_opensource.git
