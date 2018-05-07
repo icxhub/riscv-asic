@@ -10,3 +10,6 @@
 [submodule "vendor/es200_opensource"]
 	path = vendor/es200_opensource
 	url = https://github.com/SI-RISCV/e200_opensource.git
+[submodule "cad"]
+	path = cad
+	url = https://github.com/xoit/riscv-cad.git
