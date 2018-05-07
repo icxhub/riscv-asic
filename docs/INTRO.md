@@ -8,16 +8,16 @@ Different people have differnet option on design stages and also different compa
 
 - TBD
 - Verification
-- DFT (Design For Test)
+- Design For Test (DFT)
 - Synthesis (Logic Synthesis)
 - Backend (Physical Implenmentation)
   - Floorplan
   - Placement
-  - CTS
+  - Clock Tree Synthesis (CTS)
   - Route
 - Signoff
-  - STA
-  - Physical Verification
+  - Static Timing Analyze (STA)
+  - Physical Verification (PV)
   - Tapeout
 
 From the tree above, for example, STA is in Signoff part, but some teams take it into Synthesis guy and some teams take it into Backend guy.
