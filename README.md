@@ -4,7 +4,7 @@
 
 This repository is used to merge RISC-V deisgn flow and methodology for reference.
 
-* [Project Introduction](docs/intro.md)
+* [Project Introduction](docs/INTRO.md)
   * [RISC-V HummingBird Verification](https://github.com/chenfengrugao/riscvv/blob/master/README.md)
   * [RISC-V HummingBird Synthesis](https://github.com/xoit/riscv-synthesis/master/README.md)
   * [RISC-V HummingBird Backend Introduction](https://github.com/xoit/riscv-backend/master/README.md)
