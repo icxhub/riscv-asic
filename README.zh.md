@@ -1,6 +1,6 @@
-# RISC-V Design Flow Reference
+# RISC-V ASIC 设计流程参考
 
-[中文版介绍](README.zh.md)
+[English Version](README.md)
 
 This repository is used to merge RISC-V deisgn flow and methodology for reference.
 
