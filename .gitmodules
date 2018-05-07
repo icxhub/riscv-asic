@@ -7,3 +7,6 @@
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/xoit/riscv-synthesis.git
+[submodule "vendor/es200_opensource"]
+	path = vendor/es200_opensource
+	url = https://github.com/SI-RISCV/e200_opensource.git
