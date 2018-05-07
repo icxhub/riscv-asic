@@ -13,3 +13,6 @@
 [submodule "cad"]
 	path = cad
 	url = https://github.com/xoit/riscv-cad.git
+[submodule "signoff"]
+	path = signoff
+	url = https://github.com/xoit/riscv-signoff.git
